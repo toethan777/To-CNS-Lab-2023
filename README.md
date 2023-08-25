@@ -3,9 +3,9 @@ This is Ethan To's repository for Computer and Network Security Lab.
 
 ## Just Lab One Things
 
-*I chose to install the Notepad++ editor.
+6) I chose to install the Notepad++ editor.
 
-*I was not able to get my personal Linux Desktop to run Vagrant due to VPN issues, and it simply was not useful for lab purposes, 
+7) I was not able to get my personal Linux Desktop to run Vagrant due to VPN issues, and it simply was not useful for lab purposes, 
 BUT IF I WERE TO it would be quite simple.
 
 I use Manjaro Linux which uses the pacman repository, which is pretty hefty in software packages. I simply ran ```sudo pacman -S vagrant``` to install Vagrant. 
