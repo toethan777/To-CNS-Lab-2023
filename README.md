@@ -16,7 +16,7 @@ anyways,```sudo apt-get install vagrant``` to install Vagrant on Debian.
 
 Now, here's how I would go about creating a binaries for my Virtual Boxes in Linux:
 1) For Linux, I would make a directory in root for multiple boxes ```mkdir VBoxes``` and I would go into that folder using ```cd VBoxes```
-2) I would create and enter a folder for my desired virtual box using the step above (named 'debianbullseye64' for the purpose of this demostration). We are now in ./VBoxes/debianbullseye64
+2) I would create and enter a folder for my desired virtual box using the step above (named 'debianbullseye64' for the purpose of this demostration). We are now in `./VBoxes/debianbullseye64`
 3) To get the box I want, I would type the command ```vagrant box add debian/bullseye64```
 4) Then I would initialize it by typing ```vagrant init debian/bullseye64``` Now we have created a Vagrantfile for our virtual box.
 
