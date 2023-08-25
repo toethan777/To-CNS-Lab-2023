@@ -22,4 +22,4 @@ Now, here's how I would go about creating a binaries for my Virtual Boxes in Lin
 
 If I wanted to go further, I would type ```vagrant up``` to start the machine and ```vagrant ssh``` to enter. If I was done, I type ```exit``` in the virtual box command line and ```vagrant destroy``` to terminate the machine.
 
-*For Windows in particular, I have opened GitBash into `C:\Virtual Machines\DebianVagrant` and did steps 2-4 to create the binaries.
+*For Windows in particular, I have opened GitBash into `C:\Virtual Machines\DebianVagrant` and did steps 3-4 to create the binaries.
