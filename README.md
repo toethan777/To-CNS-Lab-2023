@@ -1,4 +1,6 @@
-# Welcome! This is Ethan To's repository for Computer and Network Security Lab.
+# CNS-2023
+
+Welcome! This is Ethan To's repository for Computer and Network Security Lab.
 
 *I chose to install the Notepad++ editor.
 
