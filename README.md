@@ -10,7 +10,7 @@ BUT IF I WERE TO it would be quite simple.
 
 I use Manjaro Linux which uses the pacman repository, which is pretty hefty in software packages. I simply ran ```sudo pacman -S vagrant``` to install Vagrant. 
 I also tried a virtual machine of Debian, but it would be redundant to put a virtual machine inside a virtual machine... 
-annyways,```sudo apt-get install vagrant``` to install Vagrant on Debian.
+anyways,```sudo apt-get install vagrant``` to install Vagrant on Debian.
 
 Here's how I would go about creating a binaries for my Virtual Boxes in Linux:
 1) For Linux, I would make a directory in root for multiple boxes ```mkdir VBoxes``` and I would go into that folder using ```cd VBoxes```
