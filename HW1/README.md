@@ -22,3 +22,5 @@ Finally, I have successfully added a file onto my virtual box from my local comp
 
 ![alt text](https://github.com/toethan777/To-CNS-Lab-2023/blob/main/HW1/Working_file.png)
 
+### Final note
+I had some configuration issues with GIT bash on my computer, so I dragged the first few files in. Everything is OPS normal after problems 3-5.
