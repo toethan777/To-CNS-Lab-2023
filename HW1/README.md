@@ -18,7 +18,7 @@ It is possible for Vagrant to provision so called 'Salt States.' Salt states use
 
 ## File Provisioning
 
-Finally, I have successfully added a file from my local computer. Here is what the first few lines outputs:
+Finally, I have successfully added a file from my local computer using file provisioning. Here is what the first few lines outputs:
 
 ![alt text](https://github.com/toethan777/To-CNS-Lab-2023/blob/main/HW1/Working_file.png)
 
