@@ -17,3 +17,8 @@ The next thing I did was configuring the network; that way, I could access my cr
 It is possible for Vagrant to provision so called 'Salt States.' Salt states use YAML documents which are human readable and used for configuring a system. They describe the current state of a machine which may include installed packages and services that are running.
 
 ## File Provisioning
+
+Finally, I have successfully added a file from my local computer. Here is what the first few lines outputs:
+
+![alt text](https://github.com/toethan777/To-CNS-Lab-2023/blob/main/HW1/Working_file.png)
+
