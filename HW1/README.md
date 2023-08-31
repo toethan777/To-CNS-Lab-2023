@@ -11,3 +11,9 @@ First, I have successfully provisioned an environment for my virtual machine whi
 The next thing I did was configuring the network; that way, I could access my created website through my browser.
 
 ![alt text](https://github.com/toethan777/To-CNS-Lab-2023/blob/main/HW1/Website_working.png)
+
+## On the 'Salt' provisioner
+
+It is possible for Vagrant to provision so called 'Salt States.' Salt states use YAML documents which are human readable and used for configuring a system. They describe the current state of a machine which may include installed packages and services that are running.
+
+## File Provisioning
