@@ -18,8 +18,8 @@ services:
                       tail -f /dev/null
                  "
     Attacker:
-        image: debian
-        container_name: hostA-10.9.0.5
+        image: vulnerables/web-dvwa
+        container_name: attacker-10.9.0.1
         tty: true
         cap_add:
                 - ALL
