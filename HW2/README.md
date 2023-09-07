@@ -1,4 +1,5 @@
 # Finding Docker Containers
+
 ## Nginx and PiHole
 I was looking around for different containers for docker. I looked up Nginx because I used it before for hosting a website; it is an open source reverse proxy server, which can utilize several different mediums including HTTPS, POP3, and SMTP. Nginx main focus is high performance and low memory usage. The other container I found was Pi-Hole developed by the company of the same name. It is a network level application used for ad-blocking and anti-internet-tracking. If you install it on a Raspberry Pi or other linux distribution, it is possible to create a ad-blocking server for your own personal network.
 
