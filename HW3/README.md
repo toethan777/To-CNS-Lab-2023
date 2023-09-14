@@ -14,11 +14,11 @@ and unzip the zip file:
 
 `unzip scc-5.7.2_rhel8_oracle-linux8_x86_64_bundle.zip`
 
-finally, I extract the tar file so I can run `./cscc`:
+finally, I cd into `scc-5.7.2_rhel8_oracle-linux8_x86_64_bundle` and extract the tar file so I can run `./cscc`:
 
 `tar -xf scc-5.7.2_rhel8_x86_64.tar.gz`
 
-Now, we can run the SCC for RHEL 8!
+Now, we can cd into `scc-5.7.2_rhel8_x86_64` and run the SCC for RHEL 8!
 
 ## Results of the SCC Scan
 
