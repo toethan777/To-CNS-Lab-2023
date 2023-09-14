@@ -33,4 +33,4 @@ Thanking the lord, I also have a saved zip file of my scan results before my RHE
 
 ![alttext](https://github.com/toethan777/To-CNS-Lab-2023/blob/main/HW3/Screenshot%202023-09-13%20222616.png)
 
-The overall score was 35.5%, 82 passes and 149 fails, 21 CAT I's. It appears like we have some work to do!
+The overall score was 35.5%, 82 passes and 149 fails, 21 CAT I's... It appears as if we have some work to do!
