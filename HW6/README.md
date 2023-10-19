@@ -6,3 +6,5 @@ So, I have some idea of what Splunk is and its use for monitoring events on comp
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
 blacklisted: Windows Event 4803 screensaver was dismissed; seems kind of silly to me, especially if the computer locks on sleep as policy.
 
+## inputs.conf file
+![alttext](https://github.com/toethan777/To-CNS-Lab-2023/blob/main/HW6/Screenshot%202023-10-19%20002459.png)
